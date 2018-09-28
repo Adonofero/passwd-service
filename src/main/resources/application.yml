@@ -1,0 +1,5 @@
+passwd:
+  users:
+    filepath: /etc/passwd
+  groups:
+    filepath: /etc/group

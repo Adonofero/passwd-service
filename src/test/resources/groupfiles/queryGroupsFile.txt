@@ -1,0 +1,7 @@
+lpadmin:x:118:sys
+whoopsie:x:119:
+scanner:x:120:saned
+sys:x:1000:sys
+multigroup:x:1001:adonofero,tester
+othermulti:x:1002:tester
+adonofero:x:1003:adonofero

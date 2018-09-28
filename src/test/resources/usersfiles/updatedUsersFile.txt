@@ -1,0 +1,3 @@
+colord:x:118:125:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+hplip:x:119:7:HPLIP system user,,,:/var/run/hplip:/bin/false
+adonofero:x:1000:1000:Alex Donofero,,,:/home/adonofero:/bin/bash
